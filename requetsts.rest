@@ -1,0 +1,6 @@
+POST https://sql-chatbot-poc.onrender.com/query
+Content-Type: application/json
+
+{
+    "question" :"What is the total production of Arecanut in the year 2000?"
+}
